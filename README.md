@@ -1,6 +1,6 @@
 # Webpack Website Template
 
-Template for Webpack with a basic css reset.
+Template for Webpack with a basic css reset and ESLint. 
 
 ## Installation
 
