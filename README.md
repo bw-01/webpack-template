@@ -1,6 +1,6 @@
 # Webpack Website Template
 
-Template for Webpack with a basic css reset. Also includes ESLint, Jest, Babel and GitHub Pages support.
+Template for Webpack with a basic css reset. Also includes ESLint and Babel.
 
 ## Installation
 
